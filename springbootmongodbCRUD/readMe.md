@@ -5,6 +5,13 @@ Spring web
 Spring Data Mongodb
 Lombak
 Used MongoDb Compass for server conection, and MongoDB Atlas for PROD deployment
+We also use git trminal to add project in github with following commands
+-git init
+-git status
+-git add .
+-git commit -m "Code commit"
+-git remote add origin <https://github.com/SachinJi12/SpringBootCRUDWithMongoDB.git>
+-git push origin master
 # Step2- Create a model Package *.model
 Add all required annotation
 @Setter/@Getter/@AllArgsConstructor/@NoArgsConstructor
